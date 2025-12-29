@@ -1377,7 +1377,8 @@ taskkill /PID <PID> /F
 <details>
 <summary>คำตอบ</summary>
 
-เขียนคำตอบลงในช่องนี้
+- Runner จะเป็นฝ่าย ดึงงาน (pull) จาก GitHub เอง
+- ข้อดี: ลดความเสี่ยงที่ GitHub จะ push เข้ามาโดยตรง  ปลอดภัยกว่า
 
 </details>
 
