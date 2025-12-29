@@ -1254,9 +1254,8 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ### บันทึกผลการรัน monitor.ps1
 
-```txt
-บันทึกรูปผลการรันคำสั่ง
-```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b75539f1-8fb4-475a-a39d-938a05e3b9d4" />
+
 
 ---
 
